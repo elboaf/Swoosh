@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: Swoosh
+## Notes: Rogue combo point helper
+## Author: YourName
+
+Swoosh.lua
