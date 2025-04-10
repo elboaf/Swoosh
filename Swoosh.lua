@@ -3,8 +3,8 @@
 
 -- Configurable combo point thresholds
 local SINISTER_STRIKE_CP = 0    -- Always use at 0-1 CP
-local SLICE_DICE_CP = 1        -- Use at 2+ CP when buff isn't active
-local EVISCERATE_CP = 1        -- Use at 2+ CP when Slice and Dice is active
+local SLICE_DICE_CP = 3        -- Use at 2+ CP when buff isn't active
+local EVISCERATE_CP = 3        -- Use at 2+ CP when Slice and Dice is active
 
 local function HasBuff(unit, texturePattern)
     for i=1,16 do
